@@ -1,6 +1,6 @@
 # livro
 
-🔍 Quer saber tudo sobre Forense em Redes de Computadores?
+🔍 Que tal descobrir mais sobre Forense em Redes de Computadores de uma maneira simples e prática?
 
 📖 Meu e-book traz uma abordagem didática e acessível para estudantes e iniciantes na área de perícia!
 
