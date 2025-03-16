@@ -7,4 +7,4 @@
 🛒 Disponível na Amazon Brasil: amazon.com.br. https://a.co/d/czyYGh7
 
 
-<img src="https://github.com/livropericiaderedes/samples/blob/main/livro.png" alt="Descrição da imagem" width="300"></img>
+<a href="https://a.co/d/czyYGh7"><img src="https://github.com/livropericiaderedes/samples/blob/main/livro.png" alt="Descrição da imagem" width="300"></img></a>
